@@ -15,7 +15,7 @@
 
 ### Integration phase:
 - use word embedding in neural network to predict the DOW Jones
-- use linear regression on three features: previous EOD value, neural network output, sentiment
+- use linear regression on three features: previous % change value, neural network output, sentiment
 - analyze results
 
 ### Visualization phase:
