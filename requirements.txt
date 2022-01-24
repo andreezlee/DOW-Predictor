@@ -1,0 +1,10 @@
+numpy
+yfinance
+requests
+nltk
+mysqlclient
+scrapy
+spacy
+datetime
+torch
+tqdm
